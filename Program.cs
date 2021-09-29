@@ -28,7 +28,7 @@ namespace TrianguloPascal
         private static void trianguloPascal(int v, string[] args)
         {
             
-            if (checkIfHaveParams(args, 2))
+            if (checkIfHaveParams(args, 3))
             {
 
             }
